@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BicycleApi.Tests/BicycleApi.Tests.csproj" />
+  <Project Path="BicycleDevOps/BicycleDevOps.csproj" />
+</Solution>
